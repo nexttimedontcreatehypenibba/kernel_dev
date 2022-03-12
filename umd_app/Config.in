@@ -1,0 +1,5 @@
+config BR2_PACKAGE_UMD_APP
+    bool "umd_app"
+    help
+        user mode app package for kernel
+        driver dev.
